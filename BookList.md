@@ -1,5 +1,9 @@
 ### 我会经常在这个地址下面共享自己保存的几本书 
 
+[github](https://github.com/chaoxiongTian/BookResourceShare/blob/master/BookList.md)
+
+[简书](http://www.jianshu.com/u/9ea89db53d2a)
+
 #### Android开发
 
 1.  [第一行代码-Android（第一版）](https://share.weiyun.com/94fef7be618a3b94cb055307369e1047)
